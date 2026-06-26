@@ -47,6 +47,8 @@ Bachelor of Science in Software Engineering and Management
 Technische Universität Graz (TU Graz)
 Austria
 
+Speak freely 4 languages (Kazakh, Russian, English and German) and currently learning Spanish
+
 ## Connect With Me
 
 📍 Graz, Austria
