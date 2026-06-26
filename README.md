@@ -25,10 +25,12 @@ I enjoy working on practical software projects that help me become a better deve
 
 My interests include:
 
-* Backend Development
+* Backend and Frontend Development
 * Software Architecture
 * Machine Learning
 * Educational Technology
+* Agile Projekt Management
+* Gaming
 
 When I'm not coding, you can find me traveling, playing football, learning languages, or working on personal projects.
 
