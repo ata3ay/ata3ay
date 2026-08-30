@@ -1,65 +1,137 @@
-# Dinmukhamed Atabay - Software Engineer
+# Hi, I'm Dinmukhamed Atabay 👋
 
-Hi, I'm Dinmukhamed Atabay, a Software Engineering student at TU Graz, Austria, and an aspiring Backend Developer. I enjoy building reliable software, learning new technologies, solving complex problems, and continuously improving my programming skills.
+### Software Engineering Student | Backend Developer
 
-Currently, I am focusing on Java, Spring Boot, Python, C++, and C. I am particularly interested in backend development, scalable systems, clean code practices, and software design patterns.
+I'm a **Software Engineering and Management student at TU Graz, Austria**, with a strong interest in backend development and building reliable, maintainable software.
 
-## My Stack
+I enjoy working on real-world projects, learning new technologies, solving technical problems, and continuously improving my skills as a software engineer.
+
+Currently, my main focus is **Java and Spring Boot**, while I also work with **Python, C, C++, JavaScript, and SQL**.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
 
 * Java
 * Spring Boot
+* REST APIs
+* Spring Data JPA / Hibernate
+* Spring Security
+* Maven
 
 ### Programming Languages
 
 * Java
 * Python
-* С/C++
+* C
+* C++
+* JavaScript
+* SQL
 
-## About Me
+### Databases
 
-I am originally from Kazakhstan and currently live in Austria. Besides studying Software Engineering, I help international students pursue education in Austria and Germany through my educational consulting project.
+* PostgreSQL
 
-I enjoy working on practical software projects that help me become a better developer while applying theoretical concepts from university in real-world scenarios.
+### Tools & Technologies
 
-My interests include:
+* Git & GitHub
+* Docker
+* Maven
+* JUnit
+* Testcontainers
+* Keycloak
+* OAuth2 / JWT
 
-* Backend and Frontend Development
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+---
+
+## 👨‍💻 About Me
+
+I'm originally from **Kazakhstan 🇰🇿** and currently based in **Graz, Austria 🇦🇹**.
+
+Besides studying Software Engineering, I work on practical software projects and help international students pursue their education in **Austria and Germany** through my educational consulting project **Gutentag**.
+
+I'm especially interested in combining strong technical skills with an understanding of business requirements and real-world product development.
+
+### My interests include:
+
+* Backend Development
+* Full-Stack Development
 * Software Architecture
-* Machine Learning
+* Machine Learning & AI
+* Software Design Patterns
 * Educational Technology
-* Agile Projekt Management
-* Gaming
+* Agile Project Management
+* Business Analysis
+* Gaming 🎮
 
-When I'm not coding, you can find me traveling, playing football, learning languages, or working on personal projects.
+When I'm not coding, you can usually find me traveling, playing football, learning languages, teaching, or working on personal projects.
 
-## Current Projects
+---
+
+## 🚀 Current Projects
 
 ### FAN_EXP
 
-A Spring Boot backend application focused on community and club management. The project includes REST APIs, database management, and modern backend development practices.
+A full-stack application for football clubs focused on improving the fan experience and providing digital services for football communities.
 
-## Education
+The backend is built with **Java and Spring Boot** and includes:
 
-Bachelor of Science in Software Engineering and Management
+* RESTful APIs
+* PostgreSQL database integration
+* Authentication and authorization
+* JWT / Keycloak security
+* Role-based access control
+* Database migrations with Flyway
+* Integration testing with Testcontainers
+* Docker-based development environment
 
-Technische Universität Graz (TU Graz)
-Austria
+The project also includes a **React frontend** and is being developed using modern software engineering and agile development practices.
 
-Speak freely 4 languages (Kazakh, Russian, English and German) and currently learning Spanish
+---
 
-## Connect With Me
+## 🎓 Education
+
+### Bachelor of Science — Software Engineering and Management
+
+**Graz University of Technology (TU Graz)**
+Graz, Austria 🇦🇹
+
+---
+
+## 🌍 Languages
+
+I speak four languages:
+
+* 🇰🇿 Kazakh — Native
+* 🇷🇺 Russian — Native
+* 🇬🇧 English — Advanced
+* 🇩🇪 German — Advanced
+
+Currently learning:
+
+* 🇪🇸 Spanish
+
+---
+
+## 📫 Connect With Me
 
 📍 Graz, Austria
 
 📧 [atabaydimash@gmail.com](mailto:atabaydimash@gmail.com)
 
-💼 LinkedIn: [Dinmukhamed Atabay]
+💼 LinkedIn — Dinmukhamed Atabay
 
-📸 Instagram: [@ata3ay]
+📸 Instagram — @ata3ay
 
-🌐 Personal Website: [https://liinks.co/ata3ay]
+🌐 Personal Website — https://liinks.co/ata3ay
 
-🌐 Gutentag.kz: @gutentag.kz
-
+🎓 Gutentag — @gutentag.kz
