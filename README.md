@@ -1,8 +1,8 @@
 # Hi, I'm Dinmukhamed Atabay 👋
 
-### Software Engineering Student | Backend Developer
+### Software Engineer | Backend Developer
 
-I'm a **Software Engineering and Management student at TU Graz, Austria**, with a strong interest in backend development and building reliable, maintainable software.
+I'm a **Software Engineer in Graz, Austria**, with a strong interest in backend development and building reliable, maintainable software.
 
 I enjoy working on real-world projects, learning new technologies, solving technical problems, and continuously improving my skills as a software engineer.
 
